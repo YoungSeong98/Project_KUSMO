@@ -3,8 +3,8 @@
         <param name = "use_MDUI"                    value = "0"/>       <!-- 0: not use MDUI, 1: use MDUI -->
         <param name = "wheel_radius"                value = "0.0935"/>  <!-- unit: meter -->
         <param name = "wheel_length"                value = "0.454"/>   <!-- unit: meter -->
-        <param name = "motor_pole"                  value = "8"/>       <!-- ris: : 20, kusmo : 8 -->
-        <param name = "reduction"                   value = "16"/>    <!-- ris : 4.33, kusmo : 16 -->
+        <param name = "motor_pole"                  value = "8"/>       
+        <param name = "reduction"                   value = "16"/>    
         <param name = "reverse_direction"           value = "0"/>       <!-- 0: forward, 1: reverse -->
         <param name = "maxrpm"                      value = "400"/>     <!-- unit: RPM -->
         <param name = "motor_posi"                  value = "1"/>       <!-- motor pisition 0: hall sensor, 1: encoder -->
